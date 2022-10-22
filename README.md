@@ -1,2 +1,2 @@
-# Komutlardaki Hatalar Giderildi
+# Hatalar Giderildi
 
