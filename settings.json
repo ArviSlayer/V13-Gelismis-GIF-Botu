@@ -1,0 +1,36 @@
+{
+  "sahip": "612688335944679600",
+  "prefix": ".",
+  "token": "",
+  "botDurum": "",
+  "guildID": "",
+
+  "sunucuadı": "",
+  "kategoriler": ["","","","","","","","","","","","","",""],
+  "giflog": "",
+  "silinenmesajlog": "",
+  "düzenlenenmesajlog": "",
+  "banlog": "",
+
+  "ozirandompp": "",
+  "ozirandomgif": "",
+
+  "yetkilirole": [
+    ""
+  ],  
+  "otorol": "",
+  "viprole": "",
+
+  "mavirol": "",
+  "kırmızırol": "",
+  "sarırol": "",
+  "yesilrol": "",
+  "siyahrol": "",
+
+  "banner": "",
+  "nfsw": "",
+
+  "greentik": "<a:greentik:emoji-id>",
+  "redcarpı": "<a:redcarpı:emoji-id>"
+
+}
